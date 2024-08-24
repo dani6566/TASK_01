@@ -45,15 +45,11 @@ The dataset contains the following key variables:
    - **Objective**: To visualize the frequency distribution of key variables.
    - **Methodology**: Histograms were created for GHI, DNI, DHI, WS, and temperatures to understand the distribution and spread of these variables.
 
-# 6. **Z-Score Analysis**
-   - **Objective**: To identify outliers in the data.
-   - **Methodology**: Z-scores were calculated for key variables to flag data points that are significantly different from the mean.
-
-# 7. **Bubble Charts**
+# 6. **Bubble Charts**
    - **Objective**: To explore complex relationships between multiple variables.
    - **Methodology**: Bubble charts were plotted with GHI vs. Tamb vs. WS, with bubble size representing an additional variable like RH or BP.
 
-# 8. **Data Cleaning**
+# 7. **Data Cleaning**
    - **Objective**: To prepare the dataset for accurate analysis by handling anomalies and missing values.
    - **Methodology**: The dataset was cleaned by addressing null values, especially in the 'Comments' column, and handling any detected anomalies.
 
